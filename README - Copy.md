@@ -19,7 +19,7 @@ But it uses a line break.
 
 ***
 
----
+
 > Quoting the first paragraph.
 >
 >Includes the next paragraph if we include

@@ -9,3 +9,5 @@ demo repository leaning how
 _italian_
 __bold__
 ___bolditalian___
+
+![lion royal](lion.jpg)

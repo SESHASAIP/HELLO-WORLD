@@ -10,7 +10,8 @@ _italian_
 __bold__
 ___bolditalian___
 
-![lord ganesh](C:\Users\S545510\Documents\GitHub\HELLO-WORLD\lordganesh.jpg)
+![lord ganesh](
+C:\Users\S545510\Downloads\44-542_ObjectOrientedProgramming Spring2021.docx44-542_ObjectOrientedProgramming Spring2021.docx)
 
 Paragraph 1 is not very long.
 But it does have a second sentence
@@ -55,6 +56,6 @@ return sum
 2. After coming home
 3. And this should be the final line.
 Lets do a search
-[Google](https://www.google.com)<br>
+[Google](https://www.google.com)
 Lets go to amazon <https://www.amazon.com>
-nnnn
+nnnnaaaa

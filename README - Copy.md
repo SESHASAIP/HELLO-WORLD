@@ -10,7 +10,8 @@ _italian_
 __bold__
 ___bolditalian___
 
-![lord ganesh](C:\Users\S545510\Documents\GitHub\HELLO-WORLD)
+![lord ganesh](C:\Users\S545510\Documents\GitHub\HELLO-WORLD\lordganesh.jpg)
+
 
 ***
 

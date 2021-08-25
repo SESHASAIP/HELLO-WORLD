@@ -28,3 +28,11 @@ And we can nest.
 >> Nested!
 And the last line of the second paragraph 
 >>> nestefoljoaefgli
+The function `sumIt` has the definition
+```
+def sumIt (n):
+x = 0
+for x in range(0,n):
+sum += x
+return sum
+```
